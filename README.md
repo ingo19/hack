@@ -23,10 +23,7 @@ Insta Hacker is a python based Script. You can use this script for hacking Insta
 ### Installation and usage guide
 ```
 ```
-$ apt-get update -y
-```
-```
-$ apt-get upgrade -y
+$ pkg up -y
 ```
 ```
 $ pkg install git -y
@@ -38,23 +35,28 @@ $ git clone https://github.com/ingo19/hack.git
 $ ls
 ```
 ```
-$ cd Hack-Insta
+$ cd instashell
 ```
 ```
 $ ls
 ```
 ```
-$ pkg install nano
+$ chmod +x install.sh
 ```
 ```
-$ Now Enter Some password 
+$ service tor start 
 ```
 ```
-$ CTRL + X
+$ sudo ./install.sh
 ```
 ```
-$ python2 hackinsta.py
-
+$ ./instashell.sh
+```
+```
+$ chmod +x instashell.sh
+```
+```
+$ ./instashell.sh
 * Now it will Ask for Username. Enter Your Target Username
 ```
 ```
