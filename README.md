@@ -57,6 +57,9 @@ $ chmod +x instashell.sh
 ```
 ```
 $ ./instashell.sh
+```
+```
+$ password.lst 
 * Now it will Ask for Username. Enter Your Target Username
 ```
 ```
